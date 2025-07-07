@@ -20,7 +20,7 @@ flowchart TD
     F --> G[Results & Visualization]
     G --> H[Documentation & Reporting]
 
-Running the Code
+Running the Code:
 Execute Jupyter notebooks in order as numbered.
 Scripts can be run from the command line for automated workflows.
 
