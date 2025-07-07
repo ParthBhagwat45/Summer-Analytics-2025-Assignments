@@ -2,10 +2,10 @@ Project Overview:This repository presents the solution for the Summer Analytics 
 
 Course Structure
 The course was structured into weekly modules:
-Data Preparation and Cleaning
-ML Foundations and Regularization
-Streaming Data and Classification
-Advanced ML & Deep Learning
+Data Preparation and Cleaning,
+ML Foundations and Regularization,
+Streaming Data and Classification,
+Advanced ML & Deep Learning,
 Unsupervised Learning + Industry Talks
 
 Tech Stack Used:Python 3.x,pandas, numpy,matplotlib, seaborn,scikit-learn,Jupyter Notebooks, GitHub
